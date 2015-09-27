@@ -15,4 +15,4 @@ def palin(word):
 word = sys.stdin.readline()
 palin(word)
 
-##
+###
